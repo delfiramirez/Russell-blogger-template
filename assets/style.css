@@ -249,6 +249,8 @@ h4 {
 
 .widget .popular-posts ul {
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
 .item-title {
     color: #4b4b4b;
@@ -279,6 +281,8 @@ h4 {
 #PopularPosts1,
 .widget-content.popular-posts {
     text-align: left !important;
+    margin: 0;
+    padding: 0;
 }
 
 #BlogArchive1,
