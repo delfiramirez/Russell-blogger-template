@@ -12,7 +12,7 @@ Made in 2015 with the technology of Blogger.
 
 1.- Login to your Blogger Admin account.
 
-2.- Go to Template > Browse your XML template file > Click on Upload button.
+2.- Go to Template > Browse this XML template file > Click on Upload button.
 
 3.- Customize.
 
