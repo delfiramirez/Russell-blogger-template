@@ -153,30 +153,30 @@
                           value="#f7f7f7"/>
             </Group>
             <Group description="Blog Description" selector=".header-frame .description">
-                <Variable name="description.text.color" 
-                          description="Description Color" 
-                          type="color"
-                          default="#777777"  
-                          value="#edede7"/>
+            <Variable name="description.text.color" 
+                      description="Description Color" 
+                      type="color"
+                      default="#777777"  
+                      value="#edede7"/>
             </Group>
             <Group description="Post Title" selector="h2.post-title">
-                <Variable name="post.title.font" 
-                          description="Font" 
-                          type="font"
-                          default="normal normal 30px Libre Baskerville, serif" 
-                          value="normal normal 30px Libre Baskerville, serif"/>
+            <Variable name="post.title.font" 
+                      description="Font" 
+                      type="font"
+                      default="normal normal 30px Libre Baskerville, serif" 
+                      value="normal normal 30px Libre Baskerville, serif"/>
             </Group>
             <Group description="Date Header" selector=".date-header">
-                <Variable name="date.header.color" 
-                          description="Text Color" 
-                          type="color"
-                          default="$(body.text.color)" 
-                          value="#020202"/>
-                <Variable name="date.header.background.color" 
-                          description="Background Color" 
-                          type="color"
-                          default="transparent" 
-                          value="#ff9900"/>
+            <Variable name="date.header.color" 
+                      description="Text Color" 
+                      type="color"
+                      default="$(body.text.color)" 
+                      value="#020202"/>
+            <Variable name="date.header.background.color" 
+                      description="Background Color" 
+                      type="color"
+                      default="transparent" 
+                      value="#ff9900"/>
             </Group>
             <Group description="Gadgets" selector="h2">
                 <Variable 
@@ -199,28 +199,28 @@
                         value="#999999"/>
             </Group>
             <Group description="Images" selector=".main-inner">
-                <Variable name="image.background.color" 
-                          description="Background Color" 
-                          type="color" 
-                          default="#ffffff" 
-                          value="#fafafa"/>
-                <Variable name="image.border.color" 
-                          description="Border Color" 
-                          type="color" 
-                          default="#eeeeee" 
-                          value="#ffffff"/>
-                <Variable name="image.text.color" 
-                          description="Caption Text Color" 
-                          type="color" 
-                          default="$(body.text.color)" 
-                          value="#eeeeee"/>
+            <Variable name="image.background.color" 
+                      description="Background Color" 
+                      type="color" 
+                      default="#ffffff" 
+                      value="#fafafa"/>
+            <Variable name="image.border.color" 
+                      description="Border Color" 
+                      type="color" 
+                      default="#eeeeee" 
+                      value="#ffffff"/>
+            <Variable name="image.text.color" 
+                      description="Caption Text Color" 
+                      type="color" 
+                      default="$(body.text.color)" 
+                      value="#eeeeee"/>
             </Group>
             <Variable name="body.background" 
                       description="Body Background" 
                       type="background"
                       color="$(body.background.color)" 
                       default="$(color) none repeat scroll top left" 
-                      alue="$(color) none repeat scroll top left"/>
+                      value="$(color) none repeat scroll top left"/>
             <Variable name="content.background.color.selector" description="Content Background Color Selector" type="string" default=".content-inner" value=".content-inner"/>
             <Variable name="content.shadow.spread" description="Content Shadow Spread" type="length" default="40px" value="0"/>
             <Variable name="content.shadow.spread.webkit" description="Content Shadow Spread (WebKit)" type="length" default="5px" value="0"/>
@@ -323,6 +323,7 @@
             padding:0;
             word-wrap: true;
             }
+            
             body {
             font: $(body.font);
             color: $(body.text.color);
@@ -523,7 +524,7 @@
             box-shadow: inset 0 1px 3px rgba(0, 0, 0, .25), 0 1px 0 rgba(255, 255, 255, 0.25);
             }
 
-            h2.post-title a:visited{
+            h2.post-title a:visited {
             text-decoration:none;
             }
 
