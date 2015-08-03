@@ -17,7 +17,7 @@ We have put special emphasis on the distribution, presentation and CSS styles of
 
 We have adapted the "Simple" style theme used by Blogger sectioning the content with the new structural markup elements offered by the HTML language, version 5, knowing the issues of work the hardening work under an XML document structure.
 
-We have also sought to bring the ARIA markup elements and the attributes adapted to the standard requirements of web applications for mobile devices and desktop in our days. There is a minor but effective use of the web programming language Javascript, leaving future developers or users of the thme, deepen this experience.
+We have also sought to bring the ARIA markup elements and the attributes adapted to the standard requirements of web applications and microformats for mobile devices and desktop in our days. There is a minor but effective use of the web programming language Javascript, leaving future developers or users of the thme, deepen this experience.
 
 The one-column concept creates a share of spaces permitting us to tailor and position both text and images for the perfect fit into different screen formats or devices. Reserving a space in the bottom of the application for widgets and made content.
 
