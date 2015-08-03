@@ -9,7 +9,6 @@
 ----------------------------------------------- */
 
 
-
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
     margin:0;
     padding:0;
@@ -77,20 +76,23 @@ a:hover {
     color: $(link.hover.color);
 }
 
-ul{
+ul {
     color:#314431;
     list-style-position:inside;
     list-style-type:square;
     line-height:109%;
 }
-dl{
+
+dl {
     line-height: 1.9em;
     margin-bottom:10px;
 }
-dt{
+
+dt, dd {
     margin-bottom:10px;
 }
-.bar{
+
+.bar {
     width: 100%;
     height: 20px;
     background: #000;
@@ -103,6 +105,7 @@ dt{
     -webkit-box-shadow: 1px 0px 2px #000;
     box-shadow: 1px 0px 2px #000;
 }
+
 .content-outer {
     -moz-box-shadow: 0 0 $(content.shadow.spread) rgba(0, 0, 0, .15);
     -webkit-box-shadow: 0 0 $(content.shadow.spread.webkit) rgba(0, 0, 0, .15);
@@ -110,6 +113,7 @@ dt{
     box-shadow: 0 0 $(content.shadow.spread) rgba(0, 0, 0, .15);
     margin-bottom: 1px;
 }
+
 .content-inner {
     max-width:800px;
     margin: 0 auto;
@@ -118,6 +122,7 @@ dt{
     -moz-box-shadow: 0 3px 8px rgba(0,0,0,.6);
     box-shadow: 0 3px 8px rgba(0,0,0,.6);
 }
+
 blockquote {
     color: #4b4b4b;
     margin-top: 25px;
@@ -130,16 +135,24 @@ blockquote {
     border-bottom: 1 px solid #ccc;
     line-height:1.9em !important;
 }
+
 blockquote > cite {
     display: block;
     margin: 10px;
 }
+
 blockquote > cite:before {
     content: "\2014 \2009";
 }
-code {
-    font-size: 96%;
+
+code,
+pre {
+    font-family: Monaco, monospace;
+    color: #434a56;
+    font-size:74%;
+    padding:5px;
 }
+
 /* Header
 ---------------------;-------------------------- */
 
@@ -182,21 +195,15 @@ header {
     line-height: 64px;
     text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.2);
 }
-
 .Header .description {
     color: $(description.text.color);
 }
-
 .header-inner .Header .titlewrapper {
     padding: 22px $(header.padding);
 }
-
 .header-inner .Header .descriptionwrapper {
     padding: 20px $(header.padding);
 }
-
-/* Columns
------------------------------------------------ */
 
 /* Headings
 ----------------------------------------------- */
@@ -214,7 +221,6 @@ h2 a {
     text-decoration:none;
     letter-spacing: -2px;
     word-spacing:3px;
-    cursor:pointer;
     color: $(link.hover.color);
 }
 
@@ -227,7 +233,7 @@ h2.post-title {
     box-shadow: inset 0 1px 3px rgba(0, 0, 0, .25), 0 1px 0 rgba(255, 255, 255, 0.25);
 }
 
-h2.post-title a:visited {
+h2.post-title a:visited{
     text-decoration:none;
 }
 
@@ -236,22 +242,14 @@ h4 {
     margin: 1em auto;
 }
 
-.entry-content {
-    position:relative;
-    margin-bottom: 15px;
-    padding-bottom: 25px;
-}
-.foot *{
-}
+
 /* Widgets
 ----------------------------------------------- */
 
-
 .widget .popular-posts ul {
     list-style: none;
-    margin: 0;
-    padding: 0;
 }
+
 .item-title {
     color: #4b4b4b;
     font-size:90%;
@@ -268,7 +266,6 @@ h4 {
 
 .widget-content {
     text-align:center;
-    padding:1em auto;
 }
 
 .widget-content p a {
@@ -279,7 +276,7 @@ h4 {
 }
 
 #PopularPosts1,
-.widget-content.popular-posts {
+.popular-posts {
     text-align: left !important;
     margin: 0;
     padding: 0;
@@ -300,17 +297,12 @@ h4 {
 
 /* Posts
 ----------------------------------------------- */
+
 .blog-posts.hfeed {
     margin-top: 3em;
 }
 
 .section:first-child .widget:first-child {
-}
-
-strike {
-    color:#ccc;
-    padding: 0.15em;
-    font-size:60%;
 }
 
 .date-header span {
@@ -351,8 +343,7 @@ strike {
 .post-body .tr-caption-container,
 .Profile img,
 .Image img,
-.BlogList .item-thumbnail img
-{
+.BlogList .item-thumbnail img {
     color: #C9D4D4 !important;
     padding: $(image.border.small.size);
     background: $(image.background.color);
@@ -386,6 +377,16 @@ strike {
     font-size: 96%;
 }
 
+.entry-content {
+    position:relative;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 25px;
+}
+
+.foot{
+}
+
 #footer {
     position:relative;
     box-shadow: inset 0 1px 3px rgba(0, 0, 0, .25), 0 1px 0 rgba(255, 255, 255, 0.25);
@@ -393,11 +394,30 @@ strike {
 
 /* Accents
 ---------------------------------------------- */
+
+table, td, th , tr {
+    margin: 0px;
+    padding: 0px;
+    vertical-align:top;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
 table.section-columns {
     table-layout: fixed;
     width: 100%;
     position: relative;
     border-top: 1px dashed #bbbbbb;
+    padding:0px;
 }
 
 .blog-pager {
@@ -467,19 +487,12 @@ del {
     border:none
 }
 
-code,
-pre {
-    font-family: Monaco, monospace;
-    color: #434a56;
-    font-size:74%;
-    padding:5px;
-}
-
 .PopularPosts {
     text-align:left;
     font-size:90%;
     border-right: 1px dotted #ccc;
-    padding:3px;
+    margin: 0;
+    padding: 0;
 
 }
 #cookieChoiceInfo,
@@ -510,7 +523,6 @@ pre {
 
 .entry-content {
     line-height: 1.9em;
-    margin-top: 15px;
 }
 
 .widget-content p a img,
@@ -581,6 +593,7 @@ pre {
     border-bottom: 1px dotted #4b4b4b;
 }
 
+.cookie-choices-inner
 .singleton-element span {
     width: 50% !important;
     float: left !important;
@@ -588,9 +601,14 @@ pre {
     margin: 10px !important;
 }
 
+
 .cookie-choices-buttons {
-    width: 50% !important;
+    width: 40% !important;
     float:right !important;
+}
+
+.copyright::before {
+    content: "\00a9  ";
 }
 
 /* Mobile
@@ -895,7 +913,6 @@ html .mobile-post-outer a {
         font-size:100%;
         line-height: 1.9em;
         margin-top:15px;
-        margin-top: 15px;
     }
 
     blog-posts.hfeed {
