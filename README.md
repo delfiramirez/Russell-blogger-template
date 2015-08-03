@@ -15,9 +15,9 @@ The colour palette is adapted to, the corporate image of the Studio leaded by th
 
 We have put special emphasis on the distribution, presentation and CSS styles of the main text structure tags. The CSS technology used in building visual elements or content header, is reminiscent of the classic punched, the emboss you can see in some magazines or essay books on paper. We look afetr the spaces and characters between paragraphs; testing the mobile experience, allowing the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
 
-We have adapted the "Simple" style theme used by Blogger the new structural markup offered by the HTML language, version 5, knowing the issues of work the hardening work under an XML document structure.
+We have adapted the "Simple" style theme used by Blogger sectioning the content with the new structural markup elements offered by the HTML language, version 5, knowing the issues of work the hardening work under an XML document structure.
 
-We have also sought to bring the ARIA markup elements and the attributes adapted to the standard requirements of web applications for mobile devices and desktop in our days.
+We have also sought to bring the ARIA markup elements and the attributes adapted to the standard requirements of web applications for mobile devices and desktop in our days. There is a minor but effective use of the web programming language Javascript, leaving future developers or users of the thme, deepen this experience.
 
 The one-column concept creates a share of spaces permitting us to tailor and position both text and images for the perfect fit into different screen formats or devices. Reserving a space in the bottom of the application for widgets and made content.
 
