@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aside role='complementary'>
+    <macro:include id='main-column-left-sections' name='sections'>
+        <macro:param default='0' name='num' value='0'/>
+        <macro:param default='sidebar-left' name='idPrefix'/>
+        <macro:param default='sidebar' name='class'/>
+        <macro:param default='true' name='includeBottom'/>
+    </macro:include>
+</aside>
+<aside role='complementary'>
+    <macro:include id='main-column-right-sections' name='sections'>
+        <macro:param default='2' name='num' value='0'/>
+        <macro:param default='sidebar-right' name='idPrefix'/>
+        <macro:param default='sidebar' name='class'/>
+        <macro:param default='true' name='includeBottom'/>
+    </macro:include>
+</aside>
+</section>
+<div style='clear: both'/>

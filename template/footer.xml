@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<footer class='region-inner footer-inner' id='footer' role='contentinfo'>
+    <macro:include id='footer-sections' name='sections'>
+        <macro:param default='2' name='num' value='2'/>
+        <macro:param default='footer' name='idPrefix'/>
+        <macro:param default='foot' name='class'/>
+        <macro:param default='false' name='includeBottom'/>
+    </macro:include>
+    <b:section class='foot' id='footer-3' showaddelement='no'>
+        <b:widget id='Attribution1' locked='false' mobile='yes' title='' type='Attribution'>
+            <b:includable id='main'>
+                <div class='widget-content' style='text-align: center;'>
+                    <b:if cond='data:attribution != &quot;&quot;'>
+                        <data:attribution/>
+                    </b:if>
+                </div>
+            </b:includable>
+        </b:widget>
+    </b:section>
+</footer>
+
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    WebFontConfig={
+    google: { families: [&#39;Libre+Baskerville::latin, latin-ext&#39;] }
+    };
+    (function() {
+    var wf=document.createElement(&#39;script&#39;);
+    wf.src=(&#39;https:&#39;==document.location.protocol ?&#39;https&#39;:&#39;http&#39;)+
+                            &#39;://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js&#39;;
+    wf.type=&#39;text/javascript&#39;;
+    wf.async=&#39;true&#39;;
+    var s=document.getElementsByTagName(&#39;script&#39;)[0];
+    s.parentNode.insertBefore(wf, s);
+    })();
+</script>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+    document.body.className=document.body.className.replace(&#39;loading&#39;, &#39;&#39;);
+    }, 10);    </script>
+<script src='http://www.blog-search.com/feeds/webmasters/recent.js' type='text/javascript'/>
+<b:include data='blog' name='google-analytics'/>
+</body>
