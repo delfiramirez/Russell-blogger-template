@@ -9,15 +9,15 @@ Made in 2015 with the technology of Blogger.
 
 #Case Study
 
-To develop this template, for a blog that is focused on programming, music and the web scenario , since 2004, we have introduced a minor design, adapting the technology offered by Blogger, and felling the needs of the author. Therefore, we have carefully selected both the display and the presentation of the code, so to reflect the idiosyncrasies of its thematic content and to be consistent with them.
+To develop this template, we have introduced a minor enhancement design, adapting the technology offered by Blogger, and felling the needs of this publishing tool. Therefore, we have carefully selected both the visual display and the presentation of the code, so to reflect the idiosyncrasies of its thematic content and to be consistent with them.
 
-The colour palette is adapted to, the corporate image of the Studio leaded by the publisher, subtly mimicking it, and this crafted palette converges from a crude white base to strengthen the written word. We chose a dark shade of gray colour for the text, contrasting to the liveliness of the green emeralds and links to external content.
+The colour palette is adapted to, the corporate image of the Studio leaded by the publisher, subtly mimicking it, so this crafted palette converges from a crude white base to strengthen the written word. We chose a dark shade of gray colour for the text and paragraphs, in contrast to the liveliness of the green emeralds of the headings and links to external content.
 
-We have put special emphasis on the distribution, presentation and CSS styles of the main text structure tags. The CSS technology used in building visual elements or content header, is reminiscent of the classic punched, the emboss you can see in some magazines or essay books on paper. We look afetr the spaces and characters between paragraphs; testing the mobile experience, allowing the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
+We have put special emphasis on the distribution, layer presentation and CSS styles of the main (X)HTML text structure tags. The CSS technology used in to deploy the visual elements or content header, is reminiscent of the classic punched. A similar emboss tchnique that you can see in some magazines or essay books on paper. We look after the spaces and characters between paragraphs; testing the mobile experience, and allowing the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
 
-We have adapted the "Simple" style theme used by Blogger sectioning the content with the new structural markup elements offered by the HTML language, version 5, knowing the issues of work the hardening work under an XML document structure.
+We have adapted the "Simple" style theme used by Blogger sectioning the content with the new structural markup elements offered by the HTML language in its version 5, knowing the issues of the hardening work on a based XML document structure.
 
-We have also sought to bring the ARIA markup elements and the attributes adapted to the standard requirements of web applications and microformats for mobile devices and desktop in our days. There is a minor but effective use of the web programming language Javascript, leaving future developers or users of the thme, deepen this experience.
+We have also sought to bring the ARIA markup elements and the attributes of the structural elements, adapting them to the standard requirements of actual web applications and introducing microformats for the browsing on mobile and desktop devices. There is a minor but effective use of Javascript, leaving to future developers or users of the theme, to deep this experience.
 
 The one-column concept creates a share of spaces permitting us to tailor and position both text and images for the perfect fit into different screen formats or devices. Reserving a space in the bottom of the application for widgets and made content.
 
