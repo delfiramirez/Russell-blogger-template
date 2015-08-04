@@ -15,12 +15,14 @@ There has been deployed an adaptation of the "Simple" style theme used by Blogge
 
 The colour palette is adapted and crafted to be consistent with the brand and  corporate image of the Studio leaded by the publisher, subtly mimicking it, so this palette converges from a crude white base to strengthen the written word. We chose a dark shade of gray colour for the text and paragraphs, in contrast to the liveliness of the green emeralds of the headings and links to external content.
 
-We have put special emphasis on the distribution of the content through devices, the layer presentation and the CSS styles of the main (X)HTML text structure tags. 
+We have put special emphasis on the distribution of the content through devices, the layer presentation, and the CSS styles for the main (X)HTML text structure tags. 
 The CSS technology used in to paint the visual elements or the content header, and it is reminiscent of the classic punched emboss. A similar emboss technique like those you can see in some magazines or essay books in paper. 
 
 There were measured the spaces and the characters between paragraphs; testing in a mobile experience, to allow the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
 
 The one-column concept creates a share of spaces permitting us to tailor and position both text and images for the perfect fit into different screen formats or devices. Reserving a space in the bottom of the application for widgets and made content.
+
+There was also responsiveness implemented.
 
 We have also sought to bring the ARIA markup elements and the attributes of the structural elements, adapting them to the standard requirements of actual web applications, and there were implemented microformats following the schema.org standards, for the goal to browse, to search and to be the content found easily being on mobile and desktop devices. There is a minor but effective use of Javascript, leaving to future developers or users of the theme, to deep this experience.
 
