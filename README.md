@@ -9,17 +9,20 @@ Made in 2015 with the technology of Blogger.
 
 #Case Study
 
-To develop this template, we have introduced a minor enhancement design, adapting the technology offered by Blogger, and felling the needs of this publishing tool. Therefore, we have carefully selected both the visual display and the presentation of the code, so to reflect the idiosyncrasies of its thematic content and to be consistent with them.
+To develop this template, we have introduced a minor enhancement design, adapting the technology offered by Blogger, and felling the needs of this publishing tool. Therefore, we have carefully selected both the visual display and the presentation of the code, so to reflect the idiosyncrasies of the personal thematic content of the weblog and the publisher to be consistent with them.
 
-The colour palette is adapted to, the corporate image of the Studio leaded by the publisher, subtly mimicking it, so this crafted palette converges from a crude white base to strengthen the written word. We chose a dark shade of gray colour for the text and paragraphs, in contrast to the liveliness of the green emeralds of the headings and links to external content.
+There has been deployed an adaptation of the "Simple" style theme used by Blogger sectioning the content with the new structural markup elements offered by the HTML language in its version 5, knowing the issues of the hardening work on a based XML document structure.
 
-We have put special emphasis on the distribution, layer presentation and CSS styles of the main (X)HTML text structure tags. The CSS technology used in to deploy the visual elements or content header, is reminiscent of the classic punched. A similar emboss tchnique that you can see in some magazines or essay books on paper. We look after the spaces and characters between paragraphs; testing the mobile experience, and allowing the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
+The colour palette is adapted and crafted to be consistent with the brand and  corporate image of the Studio leaded by the publisher, subtly mimicking it, so this palette converges from a crude white base to strengthen the written word. We chose a dark shade of gray colour for the text and paragraphs, in contrast to the liveliness of the green emeralds of the headings and links to external content.
 
-We have adapted the "Simple" style theme used by Blogger sectioning the content with the new structural markup elements offered by the HTML language in its version 5, knowing the issues of the hardening work on a based XML document structure.
+We have put special emphasis on the distribution of the content through devices, the layer presentation and the CSS styles of the main (X)HTML text structure tags. 
+The CSS technology used in to paint the visual elements or the content header, and it is reminiscent of the classic punched emboss. A similar emboss technique like those you can see in some magazines or essay books in paper. 
 
-We have also sought to bring the ARIA markup elements and the attributes of the structural elements, adapting them to the standard requirements of actual web applications and introducing microformats for the browsing on mobile and desktop devices. There is a minor but effective use of Javascript, leaving to future developers or users of the theme, to deep this experience.
+There were measured the spaces and the characters between paragraphs; testing in a mobile experience, to allow the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
 
 The one-column concept creates a share of spaces permitting us to tailor and position both text and images for the perfect fit into different screen formats or devices. Reserving a space in the bottom of the application for widgets and made content.
+
+We have also sought to bring the ARIA markup elements and the attributes of the structural elements, adapting them to the standard requirements of actual web applications and introducing microformats for the browsing on mobile and desktop devices. There is a minor but effective use of Javascript, leaving to future developers or users of the theme, to deep this experience.
 
 The advantages and benefits of being able to use a platform for publishing and Internet as offered by Google Inc. were considered and evaluated before starting the development. Thus, this template is also adapted to the needs of users who want to enjoy a unique and evocative experience.
 
