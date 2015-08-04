@@ -22,9 +22,9 @@ There were measured the spaces and the characters between paragraphs; testing in
 
 The one-column concept creates a share of spaces permitting us to tailor and position both text and images for the perfect fit into different screen formats or devices. Reserving a space in the bottom of the application for widgets and made content.
 
-We have also sought to bring the ARIA markup elements and the attributes of the structural elements, adapting them to the standard requirements of actual web applications and introducing microformats for the browsing on mobile and desktop devices. There is a minor but effective use of Javascript, leaving to future developers or users of the theme, to deep this experience.
+We have also sought to bring the ARIA markup elements and the attributes of the structural elements, adapting them to the standard requirements of actual web applications, and there were implemented microformats following the schema.org standards, for the goal to browse, to search and to be the content found easily being on mobile and desktop devices. There is a minor but effective use of Javascript, leaving to future developers or users of the theme, to deep this experience.
 
-The advantages and benefits of being able to use a platform for publishing and Internet as offered by Google Inc. were considered and evaluated before starting the development. Thus, this template is also adapted to the needs of users who want to enjoy a unique and evocative experience.
+The advantages and benefits of being able to use a platform for publishing and Internet were considered and evaluated before starting the development. We take in considerationa and feasibility th future integration with email, social networks and other Internet tools offered by Google Inc. Thus, this template is also adapted to the needs of the audience who want to enjoy a unique and evocative experience outside and inside the use of a platform.
 
 Because of its simplicity, and its standard structure, this is a template designed for widespread use by other member users and writers of the Blogger community.
 
