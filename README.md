@@ -14,14 +14,17 @@ To develop this template, we have introduced a minor enhancement design, adaptin
 
 There has been deployed an adaptation of the "Simple" style theme used by Blogger sectioning the content with the new structural markup elements offered by the HTML language in its version 5, knowing the issues of the hardening work on a based XML document structure.
 
-The colour palette is adapted and crafted to be consistent with the brand and  corporate image of the Studio leaded by the publisher, subtly mimicking it, so this palette converges from a crude white base to strengthen the written word. We chose a dark shade of gray colour for the text and paragraphs, in contrast to the liveliness of the green emeralds of the headings and links to external content.
+The colour palette is adapted and crafted to be consistent with the brand and  corporate image of the Studio, leaded by the publisher, subtly mimicking it, so this palette converges from a crude white base to strengthen the written word. The choice of a dark shade of gray colour for the text and paragraphs, brings contrast to the liveliness of the green emeralds of the headings and the needed hiperlinks to external or internal content.
 
-We have put special emphasis on the distribution of the content through devices, the layer presentation, and the CSS styles for the main (X)HTML text structure tags. 
-The CSS technology used in to paint the visual elements or the content header, and it is reminiscent of the classic punched emboss. A similar emboss technique like those you can see in some magazines or essay books in paper. 
+There is a special emphasis and effort put on the distribution of the content through devices, the layer presentation, and the CSS styles for the main (X)HTML text structure tags.
 
-There were measured the spaces and the characters between paragraphs; testing in a mobile experience, to allow the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
+The CSS technology used to paint the visual structural elements or the main content header, is reminiscent of a classic punched emboss. A similar emboss technique like those you felt reading and touching magazines or essay books in paper format. 
 
-The one-column concept creates a share of spaces permitting us to tailor and position both text and images for the perfect fit into different screen formats or devices. Reserving a space in the bottom of the application for widgets and made content.
+There is a measure and distance between spaces and a choice in thye tipography to fill the characters between paragraphs; if in a mobile experience, it allows the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
+
+The one-column concept creates a share of spaces, permitting us to tailor and position both text and images for a perfect fit into the different screen formats or devices. 
+
+There is in the bottom of the application a place for personal widgets or custom made content you can manage through the administration interface of the publishing tool.
 
 Besides its native mobile implementation, there was responsiveness implemented too.
 
