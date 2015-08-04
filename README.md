@@ -28,11 +28,15 @@ There is in the bottom of the application a place for personal widgets or custom
 
 Besides its native mobile implementation, there was responsiveness implemented too.
 
-It has been also sought to bring the ARIA markup elements and the attributes of the structural elements, to adapt them following the standard requirements of actual web applications. There is implemented the Microformats following the schema.org standards, for the goal to browse, to search and the content be found easily; being you on mobile or using desktop devices to experinece the web. There is a minor but effective use of Javascript, leaving it for the future developers or users of the theme, deepen this experience.
+It has been also sought to bring the ARIA markup elements and the attributes of the structural elements, to adapt them following the standard requirements of actual web applications. 
 
-Several advantages and benefits of using a platform to publish in the Internet were considered, and evaluated, before the development of templates started. It was taken in consideration the feasibility or the possible integration with the email protocol, the social network or other Internettools offered by Google Inc. Thus, this template is adapted to the needs of the audience who want to enjoy a unique and evocative experience, outside and inside, this platform.
+There is a savvt implemetation of Microformats, following the schema.org standards, for the goal to browse, to search and for the content be found easilyin the web being you on mobile or using desktop devices. 
 
-Because of its simplicity, and its standard structure, this is a template designed for a widespread use by you or other members and writers of the Blogger community.
+There is a minor but effective use of Javascript, leaving it for the future developers or users of the theme, deepen this experience.
+
+Several advantages and benefits of using a platform to publish in the Internet were considered, and evaluated, before the development of this template started. It was taken in consideration the feasibility or the possible integration with the email protocol, the social network or other Internettools offered by Google Inc. Thus, this template is adapted to the needs of the audience who want to enjoy a unique and evocative experience, outside and inside, its platform.
+
+Because of its simplicity, and its standard structured parts, this is a template designed for a widespread use by you or by other members and writers of the Blogger community.
 
 #Use
 
