@@ -23,9 +23,9 @@ The colour palette is adapted and crafted to be consistent with the brand and  c
 
 There is a special emphasis and effort put on the distribution of the content through devices, the layer presentation, and the CSS styles for the main (X)HTML text structure tags.
 
-The CSS technology used to paint the visual structural elements or the main content header, is reminiscent of a classic punched emboss. A similar emboss technique like those you felt reading and touching magazines or essay books in paper format. 
+The CSS technology used to paint the visual structural elements or the main content header, is reminiscent of a classic punched emboss. A similar emboss technique like those you felt reading and touching magazines or essay books in paper format, thus eluding the risk of flatness. 
 
-There is a measure and distance between spaces and a choice in thye tipography to fill the characters between paragraphs; if in a mobile experience, it allows the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
+There is a measure and distance between spaces and a choice of the font to fill the characters between paragraphs; leveraging different characteristics to better differentiate discrete areas of content. If in a mobile experience, it allows the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
 
 The one-column concept creates a share of spaces, permitting us to tailor and position both text and images for a perfect fit into the different screen formats or devices. 
 
