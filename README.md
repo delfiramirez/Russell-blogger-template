@@ -4,7 +4,7 @@ Custom Desktop & Mobile Template for the Blogger publishing Platform.
 
  ![](https://github.com/delfiramirez/Russell-blogger-template/blob/master/assets/splash.png)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 
 Made in 2015 with the technology of Blogger.
 
@@ -21,15 +21,15 @@ There has been deployed an adaptation of the "Simple" style theme used by Blogge
 
 The colour palette is adapted and crafted to be consistent with the brand and  corporate image of the Studio, leaded by the publisher, subtly mimicking it, so this palette converges from a crude white base to strengthen the written word. The choice of a dark shade of gray colour for the text and paragraphs, brings contrast to the liveliness of the green emeralds of the headings and the needed hiperlinks to external or internal content.
 
-There is a special emphasis and effort put on the distribution of the content through devices, the layer presentation, and the CSS styles for the main (X)HTML text structure tags.
+A special emphasis and effort is scoped on the distribution of the content through devices, the layer presentation, and the CSS code for the main (X)HTML text structure tags.
 
-The CSS technology used to paint the visual structural elements or the main content header, is reminiscent of a classic punched emboss. A similar emboss technique like those you felt reading and touching magazines or essay books in paper format, thus eluding the risk of flatness. 
+The CSS technology used to paint the visual structural elements or the main content header, creates a reminiscence of the classic punched emboss. A similar emboss technique like those you pervceive while reading and touching paper magazines or essay books in paper format, thus eluding the risk of flatness. 
 
 There is a measure and distance between spaces and a choice of the font to fill the characters between paragraphs; leveraging different characteristics to better differentiate discrete areas of content. If in a mobile experience, it allows the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
 
 The one-column concept creates a share of spaces, permitting us to tailor and position both text and images for a perfect fit into the different screen formats or devices. 
 
-There is in the bottom of the application a place for personal widgets or custom made content you can manage through the administration interface of the publishing tool.
+At the bottom of the application is reserved a space for personal widgets or custom made content, the user can manage through the administration interface of the publishing tool.
 
 Besides its native mobile implementation, there was responsiveness implemented too.
 
@@ -37,9 +37,9 @@ accessibility
 ----------
 It has been also sought to bring the ARIA markup elements and the attributes of the structural elements, to adapt them following the standard requirements of actual web applications. 
 
-There is a strong implementation of Microformats, following the schema.org standards, for the goal to browse, to search and for the content be found easily in the web; being you on mobile or using desktop devices. 
+There is a strong implementation of Microformats, following the schema.org standards, for the goal to browse, to search and for the content to be found easily in the web; whether you are on mobile or using desktop devices. 
 
-There is a minor but effective use of Javascript, leaving it for the future developers or users of the theme, deepen this experience.
+A minor but effective use of Javascript, leaves for future developers or users of the theme, deepen this experience.
 
 
 platform
