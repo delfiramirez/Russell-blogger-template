@@ -33,7 +33,7 @@ There is in the bottom of the application a place for personal widgets or custom
 
 Besides its native mobile implementation, there was responsiveness implemented too.
 
-usability
+accessibility
 ----------
 It has been also sought to bring the ARIA markup elements and the attributes of the structural elements, to adapt them following the standard requirements of actual web applications. 
 
