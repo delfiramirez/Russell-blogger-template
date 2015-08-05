@@ -12,24 +12,26 @@ Made in 2015 with the technology of Blogger.
 
 preface
 ------
-To develop this template, we have introduced a minor enhancement design, adapting the technology offered by Blogger, and felling the needs of this publishing tool. Therefore, we have carefully selected both the visual display and the presentation of the code, so to reflect the idiosyncrasies of the personal thematic content of the weblog and the publisher to be consistent with them.
+To develop this template, ios flavoured a minor enhancement design, adapting the technology offered by Blogger, with non-disruptive technique to fell the possibilities of this publishing tool. 
+
+Therefore, it is carefully selected both the visual display and the final presentation of the code, to enjoy a unique and evocative experience, so to reflect and is consequent with the idiosyncrasies of the personal thematic content of the weblog and its publisher.
 
 technique
 ---------
 
-There has been deployed an adaptation of the "Simple" style theme used by Blogger sectioning the content with the new structural markup elements offered by the HTML language in its version 5, knowing the issues of the hardening work on a based XML document structure.
+A deployment and adaptation of the "Simple" style theme used by Blogger is sectioning the content adding the new structural markup elements offered by the HTML language in its version 5, taking in consideration the issues and limitations of the hardening work on a based XML document structure.
 
-The colour palette is adapted and crafted to be consistent with the brand and  corporate image of the Studio, leaded by the publisher, subtly mimicking it, so this palette converges from a crude white base to strengthen the written word. The choice of a dark shade of gray colour for the text and paragraphs, brings contrast to the liveliness of the green emeralds of the headings and the needed hiperlinks to external or internal content.
+The colour palette is adapted and crafted to be consistent with the brand and corporate image of the Studio leaded by the publisher, subtly mimicking it. So this palette converges from a crude white base to strengthen the written word. The choice of a dark shade of gray colour for the text and the paragraphs, brings contrast with the liveliness of the green emeralds of the headings and the hiperlinks.
 
-A special emphasis and effort is scoped on the distribution of the content through devices, the layer presentation, and the CSS code for the main (X)HTML text structure tags.
+A special emphasis and effort for the distribution of the content through devices, the layer presentation, and the CSS code for the main (X)HTML text structure tags and elements. 
 
 The CSS technology used to paint the visual structural elements or the main content header, creates a reminiscence of the classic punched emboss. A similar emboss technique like those you pervceive while reading and touching paper magazines or essay books in paper format, thus eluding the risk of flatness. 
 
 There is a measure and distance between spaces and a choice of the font to fill the characters between paragraphs; leveraging different characteristics to better differentiate discrete areas of content. If in a mobile experience, it allows the audience a pleasant reading, focused on content, with the use and interaction of a measured scroll interaction.
 
-The one-column concept creates a share of spaces, permitting us to tailor and position both text and images for a perfect fit into the different screen formats or devices. 
+The one-column concept creates a share of spaces, removes distraction, and position both text and images into a perfect fit for the different screen formats or devices. 
 
-At the bottom of the application is reserved a space for personal widgets or custom made content, the user can manage through the administration interface of the publishing tool.
+At the bottom of the application is reserved a space for personal widgets and custom made content, managed through the administration interface of the publishing tool.
 
 Besides its native mobile implementation, there was responsiveness implemented too.
 
@@ -37,14 +39,14 @@ accessibility
 ----------
 It has been also sought to bring the ARIA markup elements and the attributes of the structural elements, to adapt them following the standard requirements of actual web applications. 
 
-There is a strong implementation of Microformats, following the schema.org standards, for the goal to browse, to search and for the content to be found easily in the web; whether you are on mobile or using desktop devices. 
+There is a strong implementation of Microformats, the schema.org standards, for the goal to a simpler interface and browse, or search and for the content, whether you are on mobile or using desktop devices. 
 
 A minor but effective use of Javascript, leaves for future developers or users of the theme, deepen this experience.
 
 
 platform
 -------
-Several advantages and benefits of using a platform to publish in the Internet were considered, and evaluated, before the development of this template started. It was taken in consideration the feasibility or the possible integration with the email protocol, the social network or other Internettools offered by Google Inc. Thus, this template is adapted to the needs of the audience who want to enjoy a unique and evocative experience, outside and inside, its platform.
+Several advantages and benefits of using a platform to publish in the Internet were considered and evaluated before the development of this template started. It was taken in consideration the feasibility and integration with the email protocol, with its own social network or other Internet tools offered by Google Inc. 
 
 Because of its simplicity, and its standard structured parts, this is a template designed for a widespread use by you or by other members and writers of the Blogger community.
 
