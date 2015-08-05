@@ -10,7 +10,12 @@ Made in 2015 with the technology of Blogger.
 
 #Case Study
 
+preface
+------
 To develop this template, we have introduced a minor enhancement design, adapting the technology offered by Blogger, and felling the needs of this publishing tool. Therefore, we have carefully selected both the visual display and the presentation of the code, so to reflect the idiosyncrasies of the personal thematic content of the weblog and the publisher to be consistent with them.
+
+technique
+---------
 
 There has been deployed an adaptation of the "Simple" style theme used by Blogger sectioning the content with the new structural markup elements offered by the HTML language in its version 5, knowing the issues of the hardening work on a based XML document structure.
 
@@ -28,12 +33,17 @@ There is in the bottom of the application a place for personal widgets or custom
 
 Besides its native mobile implementation, there was responsiveness implemented too.
 
+usability
+----------
 It has been also sought to bring the ARIA markup elements and the attributes of the structural elements, to adapt them following the standard requirements of actual web applications. 
 
-There is a savvt implemetation of Microformats, following the schema.org standards, for the goal to browse, to search and for the content be found easilyin the web being you on mobile or using desktop devices. 
+There is a strong implementation of Microformats, following the schema.org standards, for the goal to browse, to search and for the content be found easily in the web; being you on mobile or using desktop devices. 
 
 There is a minor but effective use of Javascript, leaving it for the future developers or users of the theme, deepen this experience.
 
+
+platform
+-------
 Several advantages and benefits of using a platform to publish in the Internet were considered, and evaluated, before the development of this template started. It was taken in consideration the feasibility or the possible integration with the email protocol, the social network or other Internettools offered by Google Inc. Thus, this template is adapted to the needs of the audience who want to enjoy a unique and evocative experience, outside and inside, its platform.
 
 Because of its simplicity, and its standard structured parts, this is a template designed for a widespread use by you or by other members and writers of the Blogger community.
