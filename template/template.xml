@@ -1621,9 +1621,8 @@
                                             </b:if>
                                             <article class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='articleBody'>
                                                 <data:post.body/>
-
                                             </article>
-                                                                                            <div style='clear: both;'/>
+                                            <div style='clear: both;'/>
                                             <b:if cond='data:post.hasJumpLink'>
                                                 <div class='jump-link'>
                                                     <a expr:href='data:post.url + &quot;#more&quot;' expr:title='data:post.title'>
