@@ -10,9 +10,9 @@
     xmlns:data='http://www.google.com/2005/gml/data' 
     xmlns:expr='http://www.google.com/2005/gml/expr' 
     xmlns:og='http://opengraphprotocol.org/schema/'>
-    
+
     <head>
-        
+
         <!--[if IE 8]>
     <script type='text/javascript'>document.documentElement.className += ' ie8 lt-ie9'</script>
     <![endif]-->
@@ -22,7 +22,7 @@
         <!--[if lt IE 7]>
     <script type='text/javascript'>document.documentElement.className += ' ie6 lt-ie7 lt-ie8 lt-ie9'</script>
     <![endif]-->
-        
+
         <meta 
             content='IE=edge,chrome=1' 
             http-equiv='X-UA-Compatible'/>
@@ -103,100 +103,100 @@
                       type="color" 
                       default="#66bbdd" 
                       value="#ffffff"/>
-            
+
             <Group description="Page Text" selector="body">
-            <Variable name="body.font" 
-                      description="Font" 
-                      type="font"
-                      default="normal normal 16px Libre Baskerville, serif" value="normal normal 16px Libre Baskerville, serif"/>
-            <Variable name="body.text.color" 
-                      description="Text Color" 
-                      type="color" 
-                      default="#222222" 
-                      value="#4b4b4b"/>
+                <Variable name="body.font" 
+                          description="Font" 
+                          type="font"
+                          default="normal normal 16px Libre Baskerville, serif" value="normal normal 16px Libre Baskerville, serif"/>
+                <Variable name="body.text.color" 
+                          description="Text Color" 
+                          type="color" 
+                          default="#222222" 
+                          value="#4b4b4b"/>
             </Group>
             <Group description="Backgrounds" selector="body">
-            <Variable name="body.background.color" 
-                      description="Outer Background" 
-                      type="color" default="#ffffff" 
-                      value="#fafafa"/>
-            <Variable name="content.background.color" 
-                      description="Main Background" 
-                      type="color" default="#f7f7f7" 
-                      value="#f7f7f7"/>
-            <Variable name="header.background.color" 
-                      description="Header Background" 
-                      type="color" default="transparent" 
-                      value="transparent"/>
+                <Variable name="body.background.color" 
+                          description="Outer Background" 
+                          type="color" default="#ffffff" 
+                          value="#fafafa"/>
+                <Variable name="content.background.color" 
+                          description="Main Background" 
+                          type="color" default="#f7f7f7" 
+                          value="#f7f7f7"/>
+                <Variable name="header.background.color" 
+                          description="Header Background" 
+                          type="color" default="transparent" 
+                          value="transparent"/>
             </Group>
             <Group description="Links" selector=".main">
-            <Variable name="link.color" 
-                      description="Link Color" 
-                      type="color" 
-                      default="#12B8B4" 
-                      value="#12B8B4"/>
-            <Variable name="link.visited.color" 
-                      description="Visited Color" 
-                      type="color" 
-                      default="#888888" 
-                      value="#444444"/>
-            <Variable name="link.hover.color" 
-                      description="Hover Color" 
-                      type="color" 
-                      default="#12B8B4" 
-                      value="#454545"/>
+                <Variable name="link.color" 
+                          description="Link Color" 
+                          type="color" 
+                          default="#12B8B4" 
+                          value="#12B8B4"/>
+                <Variable name="link.visited.color" 
+                          description="Visited Color" 
+                          type="color" 
+                          default="#888888" 
+                          value="#444444"/>
+                <Variable name="link.hover.color" 
+                          description="Hover Color" 
+                          type="color" 
+                          default="#12B8B4" 
+                          value="#454545"/>
             </Group>
             <Group description="Blog Title" selector=".header h1">
-            <Variable name="header.font" 
-                      description="Font" type="font"
-                      default="normal bold 70px Libre Baskerville, serif" 
-                      value="normal normal 70px Libre Baskerville, serif"/>
-            <Variable name="header.text.color" 
-                      description="Title Color" 
-                      type="color" 
-                      default="#3399bb"  
-                      value="#f7f7f7"/>
+                <Variable name="header.font" 
+                          description="Font" type="font"
+                          default="normal bold 70px Libre Baskerville, serif" 
+                          value="normal normal 70px Libre Baskerville, serif"/>
+                <Variable name="header.text.color" 
+                          description="Title Color" 
+                          type="color" 
+                          default="#3399bb"  
+                          value="#f7f7f7"/>
             </Group>
             <Group description="Blog Description" selector=".header-frame .description">
-            <Variable name="description.text.color" 
-                      description="Description Color" 
-                      type="color"
-                      default="#777777"  
-                      value="#edede7"/>
+                <Variable name="description.text.color" 
+                          description="Description Color" 
+                          type="color"
+                          default="#777777"  
+                          value="#edede7"/>
             </Group>
             <Group description="Post Title" selector="h2.post-title">
-            <Variable name="post.title.font" 
-                      description="Font" 
-                      type="font"
-                      default="normal normal 30px Libre Baskerville, serif" 
-                      value="normal normal 30px Libre Baskerville, serif"/>
+                <Variable name="post.title.font" 
+                          description="Font" 
+                          type="font"
+                          default="normal normal 30px Libre Baskerville, serif" 
+                          value="normal normal 30px Libre Baskerville, serif"/>
             </Group>
             <Group description="Date Header" selector=".date-header">
-            <Variable name="date.header.color" 
-                      description="Text Color" 
-                      type="color"
-                      default="$(body.text.color)" 
-                      value="#020202"/>
-            <Variable name="date.header.background.color" 
-                      description="Background Color" 
-                      type="color"
-                      default="transparent" 
-                      value="#ff9900"/>
+                <Variable name="date.header.color" 
+                          description="Text Color" 
+                          type="color"
+                          default="$(body.text.color)" 
+                          value="#020202"/>
+                <Variable name="date.header.background.color" 
+                          description="Background Color" 
+                          type="color"
+                          default="transparent" 
+                          value="#ff9900"/>
             </Group>
             <Group description="Gadgets" selector="h2">
-            <Variable 
+                <Variable 
                     name="widget.title.font" 
                     description="Title Font" 
                     type="font"
                     default="normal bold 16px Libre Baskerville, serif" 
                     value="normal bold 16px Libre Baskerville, serif"/>
-            <Variable 
+                <Variable 
                     name="widget.title.text.color" 
                     description="Title Color" 
                     type="color" 
                     default=" "
                     value="#4b4b4b"/>
-            <Variable 
+                <Variable 
                     name="widget.alternate.text.color" 
                     description="Alternate Color" 
                     type="color" 
@@ -204,21 +204,21 @@
                     value="#999999"/>
             </Group>
             <Group description="Images" selector=".main-inner">
-            <Variable name="image.background.color" 
-                      description="Background Color" 
-                      type="color" 
-                      default="#ffffff" 
-                      value="#fafafa"/>
-            <Variable name="image.border.color" 
-                      description="Border Color" 
-                      type="color" 
-                      default="#eeeeee" 
-                      value="#ffffff"/>
-            <Variable name="image.text.color" 
-                      description="Caption Text Color" 
-                      type="color" 
-                      default="$(body.text.color)" 
-                      value="#eeeeee"/>
+                <Variable name="image.background.color" 
+                          description="Background Color" 
+                          type="color" 
+                          default="#ffffff" 
+                          value="#fafafa"/>
+                <Variable name="image.border.color" 
+                          description="Border Color" 
+                          type="color" 
+                          default="#eeeeee" 
+                          value="#ffffff"/>
+                <Variable name="image.text.color" 
+                          description="Caption Text Color" 
+                          type="color" 
+                          default="$(body.text.color)" 
+                          value="#eeeeee"/>
             </Group>
             <Variable name="body.background" 
                       description="Body Background" 
@@ -344,7 +344,7 @@
             padding:0;
             word-wrap: true;
             }
-            
+
             body {
             font: $(body.font);
             color: $(body.text.color);
@@ -394,16 +394,16 @@
             list-style-type:square;
             line-height:109%;
             }
-            
+
             dl {
             line-height: 1.9em;
             margin-bottom:10px;
             }
-            
+
             dt, dd {
             margin-bottom:10px;
             }
-            
+
             .bar {
             width: 100%;
             height: 20px;
@@ -417,7 +417,7 @@
             -webkit-box-shadow: 1px 0px 2px #000;
             box-shadow: 1px 0px 2px #000;
             }
-            
+
             .content-outer {
             -moz-box-shadow: 0 0 $(content.shadow.spread) rgba(0, 0, 0, .15);
             -webkit-box-shadow: 0 0 $(content.shadow.spread.webkit) rgba(0, 0, 0, .15);
@@ -425,7 +425,7 @@
             box-shadow: 0 0 $(content.shadow.spread) rgba(0, 0, 0, .15);
             margin-bottom: 1px;
             }
-            
+
             .content-inner {
             max-width:800px;
             margin: 0 auto;
@@ -434,7 +434,7 @@
             -moz-box-shadow: 0 3px 8px rgba(0,0,0,.6);
             box-shadow: 0 3px 8px rgba(0,0,0,.6);
             }
-            
+
             blockquote {
             color: #4b4b4b;
             margin-top: 25px;
@@ -452,7 +452,7 @@
             display: block;
             margin: 10px;
             }
-            
+
             blockquote > cite:before {
             content: "\2014 \2009";
             }
@@ -464,21 +464,21 @@
             font-size:74%;
             padding:5px;
             }
-            
+
             /* Header
             ---------------------;-------------------------- */
-            
+
             header {
             height: 120px;
             box-shadow: inset 0 1px 3px rgba(0, 0, 0, .25), 0 1px 0 rgba(255, 255, 255, 0.25);
             }
-            
+
             .header-frame {
             margin:0 auto;
             padding:0;
             box-shadow: inset 0 1px 3px rgba(0, 0, 0, .25), 0 1px 0 rgba(255, 255, 255, 0.25);
             }
-            
+
             #header {
             position: relative;
             width:860px;
@@ -489,7 +489,7 @@
             padding-bottom: 20px;
             box-shadow: inset 0 1px 3px rgba(0, 0, 0, .25), 0 1px 0 rgba(255, 255, 255, 0.25);
             }
-            
+
             .Header h1 {
             font: $(header.font);
             color: $(header.text.color);
@@ -497,7 +497,7 @@
             margin:10px auto;
             display:block;
             }
-            
+
             .Header h1 a {
             padding-left: 20px;
             padding-right: 20px;
@@ -507,22 +507,22 @@
             line-height: 64px;
             text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.2);
             }
-            
+
             .description {
             color: $(description.text.color);
             }
-            
+
             .header-inner .Header .titlewrapper {
             padding: 22px $(header.padding);
             }
-            
+
             .header-inner .Header .description {
             padding: 20px $(header.padding);
             }
 
             /* Headings
             ----------------------------------------------- */
-            
+
             h2 {
             margin: 0 0 1em 0;
             font: $(widget.title.font);
@@ -531,7 +531,7 @@
             padding: 2em 0.5em 1em;
             text-align: center;
             }
-            
+
             h2 a {
             text-decoration:none;
             letter-spacing: -2px;
@@ -612,7 +612,7 @@
 
             /* Posts
             ----------------------------------------------- */
-            
+
             .blog-posts.hfeed {
             margin-top: 3em;
             }
@@ -701,7 +701,7 @@
 
             .foot{
             }
-            
+
             #footer {
             position:relative;
             box-shadow: inset 0 1px 3px rgba(0, 0, 0, .25), 0 1px 0 rgba(255, 255, 255, 0.25);
@@ -721,7 +721,7 @@
             vertical-align: inherit;
 
             }
-            
+
             th {
             display: table-cell;
             vertical-align: inherit;
@@ -810,12 +810,13 @@
             padding: 0;
 
             }
+
             #cookieChoiceInfo,
             .singleton-element {
             position: fixed;
             width: 100%;
             background-color:#fafafa !important;
-            margin: 0px;
+            margin-top: 10px !important;
             left: 0px;
             top: 0px !important;
             padding: 0px;
@@ -829,11 +830,41 @@
             border-bottom: 1px dotted #4b4b4b;
             }
 
+            .cookie-choices-info .cookie-choices-text {
+            line-height: 1.5em !important;
+            }
+
+            .cookie-choices-info .cookie-choices-button {
+            font-weight: bold;
+            text-transform: capitalize !important;
+            white-space: nowrap;
+            color: #eee;
+            margin-left: 8px;
+            padding: 0 6px;
+            text-decoration: none;
+            }
+
+            .cookie-choices-info .cookie-choices-buttons {
+            display: inline-block;
+            vertical-align: middle;
+            white-space: nowrap;
+            float: right !important;
+            width: 40% !important;
+            margin: 0 10px;
+            }
+
+            .cookie-choices-buttons {
+            width: 40% !important;
+            float:right !important;
+            }
+
             .singleton-element span {
+            font: 100% 'Libre Baskerville', serif !important;
             width: 50% !important;
             float: left !important;
             text-align: left !important;
             margin: 10px !important;
+            color: #4b4b4b !important;
             }
 
             .entry-content {
@@ -924,6 +955,18 @@
 
             .copyright::before {
             content: "\00a9  ";
+            }
+
+            .status-msg-wrap {
+            font-size: 100% !important;
+            }
+
+            .status-msg-bg {
+            background: none !important;
+            }
+
+            .status-msg-border {
+            border: 1px solid #C9D4D4 !important;
             }
 
             /* Mobile
@@ -1268,22 +1311,22 @@
             @media screen and (max-width : 768px) {
             }
             ]]></b:skin>
-            
-    <!--[if lte IE 8]>
-    <script type="text/javascript">
-        document.createElement("nav");
-        document.createElement("header");
-        document.createElement("footer");
-        document.createElement("section");
-        document.createElement("article");
-        document.createElement("aside");
-        document.createElement("hgroup");
-    </script>
-    <![endif]-->
-    <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-        
+
+        <!--[if lte IE 8]>
+        <script type="text/javascript">
+            document.createElement("nav");
+            document.createElement("header");
+            document.createElement("footer");
+            document.createElement("section");
+            document.createElement("article");
+            document.createElement("aside");
+            document.createElement("hgroup");
+        </script>
+        <![endif]-->
+        <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
         <script type='text/javascript'>
             //<![CDATA[
             (function(){
@@ -1294,10 +1337,10 @@
             }
             })()
                     document.documentElement.className=document.documentElement.className.replace('no-js', 'js');
-            //]]>
+                    //]]>
         </script>
     </head>
-    
+
     <body expr:class='&quot;loading&quot; + data:blog.mobileClass' itemscope='itemscope' itemtype='http://schema.org/Blog'>
         <div class='bar'/>
         <div class='content'>
@@ -1481,8 +1524,8 @@
                                                         </b:if>
                                                         <article class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id'>
                                                             <data:post.body/>
-                                                            <div style='clear: both;'/>
                                                         </article>
+                                                        <div style='clear: both;'/>
                                                         <section class='post-footer'>
                                                             <span class='post-author vcard'>
                                                                 <b:if cond='data:top.showAuthor'>
@@ -1578,8 +1621,9 @@
                                             </b:if>
                                             <article class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='articleBody'>
                                                 <data:post.body/>
-                                                <div style='clear: both;'/>
+
                                             </article>
+                                                                                            <div style='clear: both;'/>
                                             <b:if cond='data:post.hasJumpLink'>
                                                 <div class='jump-link'>
                                                     <a expr:href='data:post.url + &quot;#more&quot;' expr:title='data:post.title'>
@@ -1644,12 +1688,11 @@
                             wf.async=&#39;true&#39;;
                             var s=document.getElementsByTagName(&#39;script&#39;)[0];
                             s.parentNode.insertBefore(wf, s);
-                    })();    
-        </script>
+                    })();</script>
         <script type='text/javascript'>
                     window.setTimeout(function() {
                     document.body.className=document.body.className.replace(&#39;loading&#39;, &#39;&#39;);
-                    }, 10);    </script>
+                    }, 10);</script>
         <script src='http://www.blog-search.com/feeds/webmasters/recent.js' type='text/javascript'/>
         <b:include data='blog' name='google-analytics'/>
     </body>
@@ -1811,9 +1854,9 @@
         <b:widget id='PlusBadge1' locked='false' mobile='no' title='This yours truly' type='PlusBadge'>
             <b:includable id='main'>
                 <script type='text/javascript'>
-                        window.___gcfg={
-                        lang:&#39;<data:language/>&#39;
-                        };
+                    window.___gcfg={
+                    lang:&#39;<data:language/>&#39;
+                    };
                 </script>
                 <b:if cond='data:title != &quot;&quot;'>
                     <h4 class='title'>
