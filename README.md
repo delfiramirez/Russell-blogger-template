@@ -14,14 +14,14 @@ preface
 ------
 To develop this template, ios flavoured a minor enhancement design, adapting the technology offered by Blogger, with non-disruptive technique to fell the possibilities of this publishing tool. 
 
-Therefore, it is carefully selected both the visual display and the final presentation of the code, to enjoy a unique and evocative experience, so to reflect and is consequent with the idiosyncrasies of the personal thematic content of the weblog and its publisher.
+Therefore, they were carefully selected both the visual display and the final presentation of the code, to enjoy a unique and evocative experience, so to reflect and be consequent with the idiosyncrasies of the personal  content of the weblog and its author.
 
 technique
 ---------
 
-A deployment and adaptation of the "Simple" style theme used by Blogger is sectioning the content adding the new structural markup elements offered by the HTML language in its version 5, taking in consideration the issues and limitations of the hardening work on a based XML document structure.
+Deployment and adaptation of the "Simple" style theme used by Blogger by sectioning the content flavouring it with the new structural markup elements offered by the HTML language in its version 5. There was taking in consideration, besides issues and ordinary limitations, the hardening work on a based XML document structure.
 
-The colour palette is adapted and crafted to be consistent with the brand and corporate image of the Studio leaded by the publisher, subtly mimicking it. So this palette converges from a crude white base to strengthen the written word. The choice of a dark shade of gray colour for the text and the paragraphs, brings contrast with the liveliness of the green emeralds of the headings and the hiperlinks.
+The colour palette is adapted and crafted to be consistent with the brand and corporate image of the Studio leaded by the publisher, subtly mimicking it. So this palette converges from a crude white base to strengthen the written word. The choice of a dark shade of gray colour for the text and the paragraphs, brings contrast with the liveliness of the green emerald of the headings and the hiperlinks.
 
 A special emphasis and effort for the distribution of the content through devices, the layer presentation, and the CSS code for the main (X)HTML text structure tags and elements. 
 
