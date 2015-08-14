@@ -47,7 +47,7 @@ platform
 -------
 Several advantages and benefits of using a platform to publish in the Internet were considered and evaluated before the development of this template started. 
 
-It was taken in consideration the feasibility and integration with the email protocol, with its own social network or other Internet tools offered by Google Inc. 
+It was taken in consideration the feasibility and integration with the email protocol, with the social network or Internet tools offered by Alphabet. 
 
 Because of its simplicity, and its standard structured parts, this is a template designed for a widespread use by you or by other members and writers of the Blogger community.
 
